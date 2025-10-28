@@ -7,3 +7,5 @@ mongoose.connect(uri)
     .catch(err => console.error("❌ Error in connection:", err));
 
 export default mongoose;
+
+ddd
