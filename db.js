@@ -10,6 +10,11 @@ mongoose
 
 export default mongoose;
 
+<<<<<<< HEAD
 ddd;
 dddyyyiii;
 klklk;
+=======
+ddd;ooooo
+dddyyyiii
+>>>>>>> bbdd010b35c75d29a97247e5c3f1a478a89c5606
